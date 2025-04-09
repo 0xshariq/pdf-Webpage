@@ -1,7 +1,7 @@
  
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
-import { JSX, SVGProps } from "react"
+import type  { JSX, SVGProps } from "react"
 
 export function Component() {
   return (
