@@ -1,4 +1,4 @@
- import {Component} from "@/components/component/component"
+ import {Component} from "@/components/homePage"
 
 export default function Home() {
   return (
